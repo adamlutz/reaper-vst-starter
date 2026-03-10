@@ -27,7 +27,7 @@
                               V S T 3   ·   A U   ·   S T A N D A L O N E
 ```
 
-# reaper-vst-hello
+# reaper-vst-starter
 
 A hello-world VST3/AU gain plugin for REAPER, built with [JUCE](https://juce.com/).
 Companion project to [reaper-stream](https://github.com/adamlutz/reaper-stream).
@@ -57,8 +57,8 @@ Companion project to [reaper-stream](https://github.com/adamlutz/reaper-stream).
 
 ```bash
 # Clone
-git clone git@github.com:adamlutz/reaper-vst-hello.git
-cd reaper-vst-hello
+git clone git@github.com:adamlutz/reaper-vst-starter.git
+cd reaper-vst-starter
 
 # Configure  (Xcode generator)
 cmake -B build -G Xcode
